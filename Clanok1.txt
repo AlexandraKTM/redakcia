@@ -5,3 +5,7 @@ Datum: 4.20.420
 Tu je
 kratky uvod
 pre master.
+----
+Obsah
+pre master.
+Uz ma to nebavi.
