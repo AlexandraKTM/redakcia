@@ -7,5 +7,6 @@ kratky uvod
 pre master.
 ----
 Obsah
-pre master.
-Uz ma to nebavi.
+pre
+v2.
+
