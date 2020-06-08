@@ -11,6 +11,7 @@ Obsah
 pre
 v2.
 ----
-Zaver
-v1
-tu.
+Zaver 
+pre v2.
+Viac uz nepisem.
+
