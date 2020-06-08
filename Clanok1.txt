@@ -1,3 +1,4 @@
+
 Autor: IsMeMan IsMe
 Nazov: WeHaawt
 Datum: 4.20.420
@@ -7,5 +8,6 @@ kratky uvod
 pre master.
 ----
 Obsah
-pre master.
-Uz ma to nebavi.
+pre
+v2.
+
