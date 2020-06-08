@@ -5,7 +5,7 @@ Datum: 4.20.420
 ----
 Tu je
 kratky uvod
-pre master.
+pre master, tiez upravenyyyyy.
 ----
 Obsah
 pre
