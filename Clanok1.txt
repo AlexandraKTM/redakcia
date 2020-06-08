@@ -2,9 +2,9 @@ Autor: IsMeMan IsMe
 Nazov: WeHaawt
 Datum: 4.20.420
 ----
-Uvod
-pre
-v2.
+Tu je
+kratky uvod
+pre master, ktory je upraveny, jeeez.
 ----
 Obsah
 pre
