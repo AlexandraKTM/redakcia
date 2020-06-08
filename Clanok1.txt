@@ -9,3 +9,7 @@ v2.
 Obsah
 pre
 v2.
+----
+Zaver 
+pre v2.
+Viac uz nepisem.
